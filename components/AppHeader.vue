@@ -3,7 +3,7 @@ const user = useSupabaseUser();
 </script>
 <template>
   <header>
-    <div> <img src="https://images.dog.ceo/breeds/schipperke/n02104365_9369.jpg" alt="Adorable Puppy"style="width: 100px; height: 100px;"></div>
+    <div> <img src="https://images.dog.ceo/breeds/schipperke/n02104365_9369.jpg" alt="Adorable Puppy" style="width: 100px; height: 100px;"></div>
     <nav>
     <NuxtLink to="login">Log In</NuxtLink>
       <NuxtLink to="signup">Sign Up</NuxtLink>
